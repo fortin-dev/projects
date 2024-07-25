@@ -47,7 +47,6 @@ section::after{
 }
 .container:hover{
     transform: rotateY(180deg);
-    style
 }
 .container .card{
     position: absolute;
